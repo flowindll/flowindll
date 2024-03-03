@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Flo</h1>
-<h3 align="center">An iOS developer from Romania</h3>
-
-- 🔭 I’m currently working on **LiveAcademy**
-
-- 🌱 I’m currently learning **SwiftUI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
